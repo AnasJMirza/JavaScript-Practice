@@ -1,6 +1,10 @@
-#ques-01{
+#ques-01, #ques-02{
     border: 2px solid rgb(55, 57, 173);
     padding: 20px;
     margin: 20px;
     color: rgb(55, 57, 173);
+}
+
+.input{
+    width: 30%;
 }

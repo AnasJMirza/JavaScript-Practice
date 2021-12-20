@@ -42,3 +42,21 @@ function replace() {
         
     }
 }
+
+
+// --------------------------------------------------------------------------------------------
+
+// object practice
+
+// var person = {
+    
+//     abid : {
+//         city : "layyah",
+//         country : "Pakistan"
+//     }
+
+// }   
+
+// console.log(person.abid.city);
+
+

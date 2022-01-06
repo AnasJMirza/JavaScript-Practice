@@ -60,3 +60,27 @@ function replace() {
 // console.log(person.abid.city);
 
 
+// -----------------------------------------------------------------------------------------------
+
+// OOP in JavaScript
+
+class person {
+    name;
+    age;
+
+    constructor(name, age){
+        this.name = name;
+        this.age = age;
+    }
+
+    calculateAge = (DOB) => {
+        var age = 2021 - DOB;
+        return age;
+    }
+}
+
+var Anas = new person("Anas", 22);
+console.log(Anas.calculateAge(1998));
+
+
+
